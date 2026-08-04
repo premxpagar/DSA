@@ -71,6 +71,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/premxpagar/DSA/tree/master/0002-add-two-numbers) |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
@@ -88,4 +89,12 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/premxpagar/DSA/tree/master/3731-find-missing-elements) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/premxpagar/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/premxpagar/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

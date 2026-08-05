@@ -66,6 +66,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/premxpagar/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -100,13 +101,36 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [3310-remove-methods-from-project](https://github.com/premxpagar/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [3310-remove-methods-from-project](https://github.com/premxpagar/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [3310-remove-methods-from-project](https://github.com/premxpagar/DSA/tree/master/3310-remove-methods-from-project) |
+## String
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

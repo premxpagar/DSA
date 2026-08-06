@@ -79,6 +79,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/premxpagar/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -144,4 +145,8 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premxpagar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/premxpagar/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->

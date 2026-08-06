@@ -1,19 +1,14 @@
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-
-        auto ok = [&](int x) {
+        for (;; ++n) {
             int prod = 1;
-            while (x) {
-                prod *= x % 10;
-                x /= 10;
-            }
-            return prod % t == 0;
-        };
 
-        while (!ok(n))
-            n++;
+            for (int cur = n; cur; cur /= 10)
+                prod *= cur % 10;
 
-        return n;
+            if (prod % t == 0)
+                return n;
+        }
     }
 };

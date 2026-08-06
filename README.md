@@ -86,6 +86,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/premxpagar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3731-find-missing-elements](https://github.com/premxpagar/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -117,6 +118,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/premxpagar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
@@ -138,4 +140,8 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/premxpagar/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/premxpagar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

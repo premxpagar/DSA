@@ -75,6 +75,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0002-add-two-numbers](https://github.com/premxpagar/DSA/tree/master/0002-add-two-numbers) |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/premxpagar/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premxpagar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -149,4 +151,16 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/premxpagar/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->

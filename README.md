@@ -76,6 +76,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0002-add-two-numbers](https://github.com/premxpagar/DSA/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/premxpagar/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | ------- |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/premxpagar/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -90,6 +92,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | ------- |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,8 +182,18 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

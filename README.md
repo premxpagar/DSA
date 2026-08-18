@@ -73,6 +73,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [2213-longest-substring-of-one-repeating-character](https://github.com/premxpagar/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/premxpagar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/premxpagar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/premxpagar/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/premxpagar/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/premxpagar/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -107,6 +108,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/premxpagar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/premxpagar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/premxpagar/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/premxpagar/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/premxpagar/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |

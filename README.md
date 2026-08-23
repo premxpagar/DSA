@@ -86,6 +86,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/premxpagar/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/premxpagar/DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/premxpagar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/premxpagar/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -105,6 +106,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/premxpagar/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/premxpagar/DSA/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -149,6 +151,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premxpagar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
+| [1927-sum-game](https://github.com/premxpagar/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/premxpagar/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/premxpagar/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -192,6 +195,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/premxpagar/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/premxpagar/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/premxpagar/DSA/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |

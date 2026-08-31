@@ -134,6 +134,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/premxpagar/DSA/tree/master/0002-add-two-numbers) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/premxpagar/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |

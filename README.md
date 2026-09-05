@@ -86,6 +86,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [3875-construct-uniform-parity-array-i](https://github.com/premxpagar/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/premxpagar/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/premxpagar/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/premxpagar/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [1872-stone-game-viii](https://github.com/premxpagar/DSA/tree/master/1872-stone-game-viii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/premxpagar/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3903-smallest-stable-index-i](https://github.com/premxpagar/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/premxpagar/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |

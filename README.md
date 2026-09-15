@@ -118,6 +118,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/premxpagar/DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/premxpagar/DSA/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/premxpagar/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/premxpagar/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/premxpagar/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -185,6 +186,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0940-distinct-subsequences-ii](https://github.com/premxpagar/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/premxpagar/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/premxpagar/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/premxpagar/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/premxpagar/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/premxpagar/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -236,6 +238,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [1927-sum-game](https://github.com/premxpagar/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/premxpagar/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/premxpagar/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/premxpagar/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -246,6 +249,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/premxpagar/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |

@@ -195,6 +195,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/premxpagar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/premxpagar/DSA/tree/master/3310-remove-methods-from-project) |
@@ -212,6 +213,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0022-generate-parentheses](https://github.com/premxpagar/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/premxpagar/DSA/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/premxpagar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0678-valid-parenthesis-string](https://github.com/premxpagar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/premxpagar/DSA/tree/master/0856-score-of-parentheses) |
@@ -275,6 +277,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/premxpagar/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/premxpagar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy

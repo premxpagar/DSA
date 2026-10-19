@@ -136,6 +136,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/premxpagar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/premxpagar/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/premxpagar/DSA/tree/master/0115-distinct-subsequences) |
@@ -230,6 +231,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premxpagar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/premxpagar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/premxpagar/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0032-longest-valid-parentheses) |
@@ -331,6 +333,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/premxpagar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/premxpagar/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
@@ -476,4 +479,8 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/premxpagar/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/premxpagar/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

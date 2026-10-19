@@ -111,6 +111,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/premxpagar/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/premxpagar/DSA/tree/master/0007-reverse-integer) |
 | [0836-rectangle-overlap](https://github.com/premxpagar/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/premxpagar/DSA/tree/master/1401-circle-and-rectangle-overlapping) |

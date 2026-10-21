@@ -69,6 +69,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0004-median-of-two-sorted-arrays](https://github.com/premxpagar/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/premxpagar/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/premxpagar/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/premxpagar/DSA/tree/master/0015-3sum) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
@@ -200,6 +201,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/premxpagar/DSA/tree/master/0015-3sum) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/premxpagar/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/premxpagar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -357,6 +359,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/premxpagar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/premxpagar/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/premxpagar/DSA/tree/master/0015-3sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/premxpagar/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax

@@ -263,6 +263,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/premxpagar/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/premxpagar/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Union-Find
 |  |
 | ------- |

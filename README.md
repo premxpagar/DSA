@@ -67,6 +67,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/premxpagar/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/premxpagar/DSA/tree/master/0011-container-with-most-water) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
@@ -322,6 +323,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/premxpagar/DSA/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/premxpagar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/premxpagar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/premxpagar/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -346,6 +348,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/premxpagar/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/premxpagar/DSA/tree/master/0011-container-with-most-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/premxpagar/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax

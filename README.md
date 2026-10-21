@@ -116,6 +116,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0007-reverse-integer](https://github.com/premxpagar/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/premxpagar/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/premxpagar/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/premxpagar/DSA/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/premxpagar/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/premxpagar/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -176,6 +177,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premxpagar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/premxpagar/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/premxpagar/DSA/tree/master/0013-roman-to-integer) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/premxpagar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/premxpagar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -246,6 +248,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0008-string-to-integer-atoi](https://github.com/premxpagar/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/premxpagar/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/premxpagar/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/premxpagar/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/premxpagar/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0032-longest-valid-parentheses) |

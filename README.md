@@ -222,6 +222,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/premxpagar/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/premxpagar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/premxpagar/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -370,6 +371,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0015-3sum](https://github.com/premxpagar/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/premxpagar/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/premxpagar/DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/premxpagar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/premxpagar/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax

@@ -125,6 +125,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0009-palindrome-number](https://github.com/premxpagar/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/premxpagar/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/premxpagar/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/premxpagar/DSA/tree/master/0029-divide-two-integers) |
 | [0836-rectangle-overlap](https://github.com/premxpagar/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/premxpagar/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -425,6 +426,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/premxpagar/DSA/tree/master/0029-divide-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/premxpagar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/premxpagar/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/premxpagar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |

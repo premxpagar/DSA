@@ -227,6 +227,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0021-merge-two-sorted-lists](https://github.com/premxpagar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/premxpagar/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/premxpagar/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/premxpagar/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/premxpagar/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -235,6 +236,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0010-regular-expression-matching](https://github.com/premxpagar/DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/premxpagar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/premxpagar/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/premxpagar/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [3483-unique-3-digit-even-numbers](https://github.com/premxpagar/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |

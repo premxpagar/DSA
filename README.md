@@ -81,6 +81,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0036-valid-sudoku](https://github.com/premxpagar/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/premxpagar/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/premxpagar/DSA/tree/master/0040-combination-sum-ii) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
@@ -364,6 +365,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0022-generate-parentheses](https://github.com/premxpagar/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/premxpagar/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/premxpagar/DSA/tree/master/0040-combination-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/premxpagar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |

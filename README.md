@@ -75,6 +75,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0026-remove-duplicates-from-sorted-array](https://github.com/premxpagar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/premxpagar/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/premxpagar/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/premxpagar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
@@ -453,6 +454,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/premxpagar/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/premxpagar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/premxpagar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/premxpagar/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/premxpagar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |

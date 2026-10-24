@@ -79,6 +79,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/premxpagar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/premxpagar/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/premxpagar/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
@@ -196,6 +197,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0017-letter-combinations-of-a-phone-number](https://github.com/premxpagar/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/premxpagar/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/premxpagar/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/premxpagar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/premxpagar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -359,6 +361,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/premxpagar/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/premxpagar/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
 | [0301-remove-invalid-parentheses](https://github.com/premxpagar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/premxpagar/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -477,6 +480,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/premxpagar/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/premxpagar/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/premxpagar/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -584,4 +588,12 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/premxpagar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

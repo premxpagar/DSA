@@ -85,6 +85,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/premxpagar/DSA/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/premxpagar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/premxpagar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -257,6 +258,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/premxpagar/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/premxpagar/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/premxpagar/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -265,6 +267,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0301-remove-invalid-parentheses](https://github.com/premxpagar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/premxpagar/DSA/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/premxpagar/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/premxpagar/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -319,6 +322,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/premxpagar/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/premxpagar/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Shortest Path
 |  |
@@ -487,6 +491,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0036-valid-sudoku](https://github.com/premxpagar/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/premxpagar/DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/premxpagar/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/premxpagar/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree

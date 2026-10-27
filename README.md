@@ -84,6 +84,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0040-combination-sum-ii](https://github.com/premxpagar/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/premxpagar/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/premxpagar/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/premxpagar/DSA/tree/master/0045-jump-game-ii) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
@@ -172,6 +173,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0032-longest-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/premxpagar/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/premxpagar/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/premxpagar/DSA/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/premxpagar/DSA/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/premxpagar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/premxpagar/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -392,6 +394,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | ------- |
 | [0011-container-with-most-water](https://github.com/premxpagar/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/premxpagar/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/premxpagar/DSA/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/premxpagar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/premxpagar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/premxpagar/DSA/tree/master/1386-cinema-seat-allocation) |

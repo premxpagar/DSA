@@ -171,6 +171,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0022-generate-parentheses](https://github.com/premxpagar/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/premxpagar/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/premxpagar/DSA/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/premxpagar/DSA/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/premxpagar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/premxpagar/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -259,6 +260,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0021-merge-two-sorted-lists](https://github.com/premxpagar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/premxpagar/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/premxpagar/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/premxpagar/DSA/tree/master/0044-wildcard-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/premxpagar/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
@@ -302,6 +304,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0032-longest-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/premxpagar/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/premxpagar/DSA/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/premxpagar/DSA/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/premxpagar/DSA/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/premxpagar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
@@ -388,6 +391,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/premxpagar/DSA/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/premxpagar/DSA/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/premxpagar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/premxpagar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/premxpagar/DSA/tree/master/1386-cinema-seat-allocation) |

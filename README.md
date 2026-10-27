@@ -82,6 +82,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/premxpagar/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/premxpagar/DSA/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/premxpagar/DSA/tree/master/0041-first-missing-positive) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
@@ -202,6 +203,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0030-substring-with-concatenation-of-all-words](https://github.com/premxpagar/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/premxpagar/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/premxpagar/DSA/tree/master/0041-first-missing-positive) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/premxpagar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/premxpagar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |

@@ -83,6 +83,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0039-combination-sum](https://github.com/premxpagar/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/premxpagar/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/premxpagar/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/premxpagar/DSA/tree/master/0042-trapping-rain-water) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
@@ -168,6 +169,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0010-regular-expression-matching](https://github.com/premxpagar/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/premxpagar/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/premxpagar/DSA/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/premxpagar/DSA/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/premxpagar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/premxpagar/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -417,6 +419,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0027-remove-element](https://github.com/premxpagar/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/premxpagar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/premxpagar/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/premxpagar/DSA/tree/master/0042-trapping-rain-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/premxpagar/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/premxpagar/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
@@ -521,6 +524,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | ------- |
 | [0020-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/premxpagar/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/premxpagar/DSA/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/premxpagar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/premxpagar/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/premxpagar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -613,4 +617,8 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/premxpagar/DSA/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/premxpagar/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

@@ -86,6 +86,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0042-trapping-rain-water](https://github.com/premxpagar/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/premxpagar/DSA/tree/master/0045-jump-game-ii) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/premxpagar/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/premxpagar/DSA/tree/master/1254-number-of-closed-islands) |
@@ -143,6 +144,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0013-roman-to-integer](https://github.com/premxpagar/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/premxpagar/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/premxpagar/DSA/tree/master/0043-multiply-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/premxpagar/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/premxpagar/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/premxpagar/DSA/tree/master/1401-circle-and-rectangle-overlapping) |

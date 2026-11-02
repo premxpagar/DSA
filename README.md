@@ -87,6 +87,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0045-jump-game-ii](https://github.com/premxpagar/DSA/tree/master/0045-jump-game-ii) |
 | [0399-evaluate-division](https://github.com/premxpagar/DSA/tree/master/0399-evaluate-division) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/premxpagar/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/premxpagar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/premxpagar/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/premxpagar/DSA/tree/master/1254-number-of-closed-islands) |
@@ -145,6 +146,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0029-divide-two-integers](https://github.com/premxpagar/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/premxpagar/DSA/tree/master/0043-multiply-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/premxpagar/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/premxpagar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/premxpagar/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/premxpagar/DSA/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/premxpagar/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -241,6 +243,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [0015-3sum](https://github.com/premxpagar/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/premxpagar/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/premxpagar/DSA/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/premxpagar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/premxpagar/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/premxpagar/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/premxpagar/DSA/tree/master/2089-find-target-indices-after-sorting-array) |

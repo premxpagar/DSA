@@ -97,6 +97,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 | [1406-stone-game-iii](https://github.com/premxpagar/DSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/premxpagar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/premxpagar/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/premxpagar/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/premxpagar/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/premxpagar/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/premxpagar/DSA/tree/master/1872-stone-game-viii) |
@@ -499,6 +500,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/premxpagar/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/premxpagar/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Bit Manipulation
 |  |
@@ -521,6 +523,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/premxpagar/DSA/tree/master/0043-multiply-strings) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/premxpagar/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/premxpagar/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/premxpagar/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -606,6 +609,7 @@ Solutions are organized by platform and topic whenever possible. As I continue l
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/premxpagar/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/premxpagar/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/premxpagar/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/premxpagar/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/premxpagar/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
